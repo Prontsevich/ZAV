@@ -1,2 +1,2 @@
 # ZAV klipper config
-Klipper config for BTT SKR1.4
+Klipper config for BTT MantaM8P
